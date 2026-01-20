@@ -1,2 +1,2 @@
 # rocket-launch-success-prediction
-Machine learning classification project predicting rocket launch success using Python, EDA, and multiple supervised learning models.
+Rocket Launch Success Prediction – Built a machine learning classification model to predict rocket launch success using historical launch data; performed EDA, feature engineering, and evaluated multiple models including Logistic Regression, KNN, Decision Tree, and Random Forest using Python and scikit-learn.
